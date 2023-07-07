@@ -1,0 +1,17 @@
+.finder {
+    margin: 2rem auto;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 40rem;
+    text-align: center;
+}
+
+.finder > input {
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    padding: 0.5rem;
+    border: 1px solid black;
+    border-radius: 5px;
+}
