@@ -18,7 +18,13 @@ function createCard(item) {
 }
 
 function App() {
-    return <div>{info.map(createCard)}</div>;
+    return (
+        <div>
+            <h1 className="heading">Anime Characters</h1>
+
+            {info.map(createCard)}
+        </div>
+    );
 }
 
 export default App;
