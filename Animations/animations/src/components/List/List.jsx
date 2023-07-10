@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import { CSSTransition, TransitionGroup } from "react-transition-group";
-
 import "./List.css";
+
+import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 function List() {
     const [items, setItems] = useState([1, 2, 3]);

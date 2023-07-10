@@ -1,8 +1,8 @@
 import React from "react";
 
-import { CSSTransition } from "react-transition-group";
-
 import "./Modal.css";
+
+import { CSSTransition } from "react-transition-group";
 
 const animationTiming = {
     enter: 400,

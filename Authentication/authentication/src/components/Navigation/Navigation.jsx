@@ -1,8 +1,8 @@
 import React, { useContext } from "react";
 
-import { Link } from "react-router-dom";
-
 import classes from "./Navigation.module.css";
+
+import { Link } from "react-router-dom";
 
 import AuthContext from "../../context/AuthContext";
 

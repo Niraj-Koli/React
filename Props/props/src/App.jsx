@@ -1,11 +1,11 @@
 import React from "react";
 
+import Card from "./components/Card";
+import Composition from "./components/Composition";
+
 import Levi from "./images/LeviAlpha.jpg";
 import Giyu from "./images/GiyuEta.jpg";
 import Ichigo from "./images/IchigoAlpha.jpg";
-
-import Card from "./components/Card";
-import Composition from "./components/Composition";
 
 function App() {
     return (

@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import { Transition } from "react-transition-group";
-
 import "./App.css";
+
+import { Transition } from "react-transition-group";
 
 import Modal from "./components/Modal/Modal";
 import Backdrop from "./components/Backdrop/Backdrop";
