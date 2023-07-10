@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: cursive;
+    background-color: #30d5c8;
+}
+
+button {
+    font: inherit;
+    cursor: pointer;
+    background-color: #00203f;
+    border: 1px solid #00203f;
+    color: white;
+    margin: 5px;
+    padding: 0.5rem 1.5rem;
+    border-radius: 7px;
+}
+
+button:hover,
+button:active {
+    background-color: #ff1493;
+    border-color: #ff1493;
+}
