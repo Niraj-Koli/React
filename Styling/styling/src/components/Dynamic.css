@@ -1,0 +1,30 @@
+form {
+    text-align: center;
+    height: 400px;
+}
+
+.heading__light {
+    font-size: 30px;
+    text-align: center;
+    color: #00203f;
+}
+
+.mint {
+    background-color: #adefd1;
+    padding: 20px;
+}
+
+.coral {
+    background-color: #ff7f50;
+    padding: 20px;
+}
+
+.dy_button {
+    font-size: 20px;
+    text-align: center;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #30d5c8;
+    margin: 20px;
+}
